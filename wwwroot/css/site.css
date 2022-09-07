@@ -16,3 +16,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#Items_R_1 {
+    display: flex;
+    justify-content: space-between;
+}
